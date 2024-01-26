@@ -1,2 +1,4 @@
 # LightPollution_NL
-Using NASA VIIRS Black Marble data to create maps and graphs of the Netherlands and other countries
+
+This Repository collects files that are used to wrangle and plot NASA VIIRS BlackMarble data. 
+
